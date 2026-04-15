@@ -1,2 +1,2 @@
-# vimal-s
+# vimal-RPS
 rock paper scissors
